@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "iview": "^3.0.1",
-    "nuxt": "^1.0.0"
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
